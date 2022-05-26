@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.fcpq.SecondaryDevicesAPI",
+  "simulationId": "secondarydevicesapi",
+  "start": 1652075645658,
+  "description": "",
+  "scenarios": ["Calling APIs"],
+  "assertions": [
+
+  ]
+}

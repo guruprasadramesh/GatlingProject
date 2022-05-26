@@ -1,0 +1,4 @@
+RUN	com.performance.fcpq.SecondaryDevicesAPI	secondarydevicesapi	1653561436134	 	3.6.1
+USER	Calling APIs	START	1653561437696
+REQUEST		Direct Search API	1653561437724	1653561445025	KO	jsonPath($.response_data.(0).deviceType).find.is(MCB) extraction crashed: string matching regex '[^\*\.\[\]\(\)=!<>\s]+' expected but '(' found
+USER	Calling APIs	END	1653561445110

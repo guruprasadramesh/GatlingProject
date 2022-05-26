@@ -1,0 +1,4 @@
+RUN	com.performance.test.APITestExample	apitestexample	1651811634263	 	3.6.1
+USER	user scenario	START	1651811636031
+REQUEST		Email API	1651811636067	1651811636268	OK	 
+USER	user scenario	END	1651811636302

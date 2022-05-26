@@ -1,0 +1,4 @@
+RUN	com.performance.fcpq.LoginTokenGeneration	logintokengeneration	1652795085429	 	3.6.1
+USER	Open the Edit pricing	START	1652795086934
+REQUEST		Edit Pricing from First Solution	1652795086959	1652795088111	KO	status.find.is(200), but actually found 404
+USER	Open the Edit pricing	END	1652795088141

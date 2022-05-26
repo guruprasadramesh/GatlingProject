@@ -1,0 +1,4 @@
+RUN	com.performance.fcpq.SecondaryDevicesAPI	secondarydevicesapi	1652946497064	 	3.6.1
+USER	Calling APIs	START	1652946500170
+REQUEST		Direct Search API	1652946500195	1652946507735	OK	 
+USER	Calling APIs	END	1652946507753

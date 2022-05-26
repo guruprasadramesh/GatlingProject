@@ -1,0 +1,4 @@
+RUN	com.performance.test.APITestExample	apitestexample	1645592729178	 	3.6.1
+USER	user scenario	START	1645592730997
+REQUEST		calling to do	1645592731019	1645592731802	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+USER	user scenario	END	1645592731857

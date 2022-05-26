@@ -1,0 +1,4 @@
+RUN	com.performance.test.APITestExample	apitestexample	1651758966553	 	3.6.1
+USER	user scenario	START	1651758968308
+REQUEST		calling to do	1651758968332	1651758968426	OK	 
+USER	user scenario	END	1651758968444

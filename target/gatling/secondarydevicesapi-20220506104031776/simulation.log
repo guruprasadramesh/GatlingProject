@@ -1,0 +1,4 @@
+RUN	com.performance.fcpq.SecondaryDevicesAPI	secondarydevicesapi	1651833631776	 	3.6.1
+USER	Calling APIs	START	1651833633644
+REQUEST		Direct Search API	1651833633671	1651833663751	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 504
+USER	Calling APIs	END	1651833663801

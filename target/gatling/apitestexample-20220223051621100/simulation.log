@@ -1,0 +1,4 @@
+RUN	com.performance.test.APITestExample	apitestexample	1645593381100	 	3.6.1
+USER	user scenario	START	1645593382909
+REQUEST		calling to do	1645593382935	1645593383172	KO	status.find.is(400), but actually found 200
+USER	user scenario	END	1645593383287

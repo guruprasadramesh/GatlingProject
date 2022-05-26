@@ -1,0 +1,4 @@
+RUN	com.performance.fcpq.SecondaryDevicesAPI	secondarydevicesapi	1652180549609	 	3.6.1
+USER	Calling APIs	START	1652180551913
+REQUEST		Direct Search API	1652180551953	1652180581664	KO	status.find.is(200), but actually found 504
+USER	Calling APIs	END	1652180581690

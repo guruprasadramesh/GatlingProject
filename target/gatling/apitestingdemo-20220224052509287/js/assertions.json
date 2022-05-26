@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.test.APITestingDemo",
+  "simulationId": "apitestingdemo",
+  "start": 1645680309287,
+  "description": "",
+  "scenarios": ["Add to cart"],
+  "assertions": [
+
+  ]
+}

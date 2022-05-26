@@ -1,0 +1,4 @@
+RUN	com.performance.test.APITestingDemo	apitestingdemo	1645679646915	todo with one user	3.6.1
+REQUEST		calling ToDo	1645679648900	1645679648911	KO	j.n.UnknownHostException: No such host is known (jsonplaceholder.typicode.comtodos)
+USER	Add to cart	END	1645679648928
+USER	Add to cart	START	1645679648866
